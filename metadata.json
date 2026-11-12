@@ -1,0 +1,6 @@
+{
+  "name": "NetPal AI",
+  "description": "AI-powered broadband consumer protection, outage tracking, service credit calculator, and PayPal refund assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
